@@ -1,7 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
+author 'Camou'
 
-description 'ESX Drift Reward System'
+description 'Reward Addon for EasyDrift'
 
 shared_script 'config.lua'
 
@@ -14,3 +15,4 @@ server_scripts {
     '@es_extended/locale.lua',
     'server.lua',
 }
+
